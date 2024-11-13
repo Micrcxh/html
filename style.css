@@ -1,0 +1,87 @@
+*{
+    background-image: url(../img/Без\ названия39_20241103191429.png);
+    background-size: cover;
+}
+.head{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: azure;
+    font-size: 25px;
+    padding: 10px;
+    margin-left: 20px;
+    background: none;
+    padding: 20px;
+}
+.linkbio{
+    text-decoration: none;
+    color: azure;
+    font-size: 30px;
+    background: none;
+    margin-left: 20px;
+}
+.div{
+    height: 90px;
+    width: 100%;
+    display: inline-block;
+    color: azure;
+    background: none;
+    background-color: rgb(37, 34, 33);
+    border-radius: 25px;
+}
+.version{
+    margin-left: 750px;
+    background: none;
+    text-decoration: none;
+    color: azure;
+}
+.starttext{
+    height: auto;
+    width: 100%;
+    display: inline-block;
+    color: azure;
+    background: none;
+    background-color: rgb(37, 34, 33);
+    border-radius: 25px;
+    margin-top: 60px;
+}
+.loe{
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background: none;
+    font-size: 40px;
+}
+.lortext{
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background: none;
+    font-size: 26px
+}
+.lortexto{
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background: none;
+    font-size: 25px;
+    display: inline-block;
+    height: 310px;
+    width: 700px;
+    margin-left: 30px;
+}
+.lortexte{
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background: none;
+    font-size: 25px;
+    margin-left: 30px;
+}
+.gifone{
+    display: inline-block;
+    height: 350px;
+    width: 700px;
+}
